@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae31235e-57c9-4c63-97b8-53536a432c12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_02_07_2018/Exercicio03.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_02_07_2018/Exercicio03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_02_07_2018/Exercicio04.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_02_07_2018/Exercicio04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_08_05_2018/IMC$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_08_05_2018/IMC$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_08_05_2018/IMC.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_08_05_2018/IMC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_08_05_2018/IMC.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto$2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/DialogDesconto.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/Exercicio02.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_04_2018/Exercicio02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio02.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio03.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio04.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_09_08_2018/Exercicio04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_10_09_2018/Exemplo04.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_10_09_2018/Exemplo04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_13_08_2018/ExemploForEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_13_08_2018/ExemploForEach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_13_08_2018/QuantosLetrasM.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_13_08_2018/QuantosLetrasM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_16_04_2018/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_16_04_2018/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_16_04_2018/Exercicio05.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_16_04_2018/Exercicio05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_16_08_2018/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_16_08_2018/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_21_05_2018/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_21_05_2018/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_22_05_2018/CaixaEletronico.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_22_05_2018/CaixaEletronico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_26_03_2018/ExemploIF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_26_03_2018/ExemploIF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/aula_31_07_2018/ExercicioMatriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/aula_31_07_2018/ExercicioMatriz.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/prova/Prova.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/prova/Prova.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio01.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio02.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio03.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio04.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/br/com/mario/trabalho_20_08_2018/Exercicio04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_05_03_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_05_03_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_05_03_2018/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_05_03_2018/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_05_05_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_05_05_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_05_05_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_05_05_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/ExemploDeTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/ExemploDeTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/Operacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/Robo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_06_03_2018/Robo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_07_05_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_07_05_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_07_05_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_07_05_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_08_05_2018/IMC.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_08_05_2018/IMC.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_08_05_2018/IMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_08_05_2018/IMC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/DialogDesconto.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/DialogDesconto.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/DialogDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/DialogDesconto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_04_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_09_08_2018/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_04_2018/Exemplo08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Calculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Calculos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exemplo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exemplo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exemplo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exemplo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exemplo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exemplo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_10_09_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_03_2018/Exercicio06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_12_06_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_12_06_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_13_08_2018/ExemploForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_13_08_2018/ExemploForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_13_08_2018/ExemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_13_08_2018/ExemploString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_13_08_2018/QuantosLetrasM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_13_08_2018/QuantosLetrasM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_14_05_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_14_05_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_04_2018/Exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_08_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_08_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_16_08_2018/FuncoesString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_16_08_2018/FuncoesString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_18_06_2018/ExercicioVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_18_06_2018/ExercicioVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_19_03_2018/EntradaDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_19_03_2018/EntradaDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_21_05_2018/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_21_05_2018/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_21_05_2018/Relogio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_21_05_2018/Relogio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_22_05_2018/CaixaEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_22_05_2018/CaixaEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_24_04_2018/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/ExemploIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/ExemploIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_26_03_2018/Exercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_30_08_2018/Metodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_30_08_2018/Metodos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_31_07_2018/ComparacaoDeDatas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_31_07_2018/ComparacaoDeDatas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/aula_31_07_2018/ExercicioMatriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/aula_31_07_2018/ExercicioMatriz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/prova/Prova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/prova/Prova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/mario/trabalho_20_08_2018/Exercicio04.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1151853423">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/br/com/mario/aula_01_11_2018/Aluno.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#838#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/br/com/mario/aula_01_11_2018/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#2159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ads2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mario" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ads2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ads2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="br" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="mario" type="462c0819:PsiDirectoryNode" />
+              <item name="aula_01_11_2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540505893922" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae31235e-57c9-4c63-97b8-53536a432c12" name="Default Changelist" comment="" />
+      <created>1540505833247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540505833247</updated>
+      <workItem from="1540505834819" duration="73000" />
+      <workItem from="1541115737313" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="767000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/br/com/mario/aula_02_07_2018/Exercicio01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/mario/aula_01_11_2018/Aluno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/mario/aula_01_11_2018/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#2159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ads2018</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
